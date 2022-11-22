@@ -11,7 +11,8 @@ Mainly to consolidate my knowledge of Git and Github, but also HTML, CSS and Com
 The web page advertises a mobile app which helps users record and share their experiences. A landing page is a vital tool in marketing a product these days, and its goal is to entice potential customers into using the product
 
 # How to use: 
-Open the index.html file in a browser such as Chrome
+1) Fork and clone (or simply download) the repo
+2) Open the index.html file in a browser such as Chrome
 
 # Technologies: 
 HTML, CSS, Command Line Interface, Git, and GitHub
